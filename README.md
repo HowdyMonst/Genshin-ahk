@@ -18,7 +18,7 @@
 
 到 [AutoHotkey 官网](https://www.autohotkey.com/) 下载 AutoHotkey。正常进行安装。（注意：使用 Download Current Version，而不是 Download V2 Alpha。）
 
-从Releases下载，然后双击运行 `原神.ahk` 就可以了。
+从Releases下载，然后双击运行 `default.ahk` 就可以了。
 
 ## 自定义
 
